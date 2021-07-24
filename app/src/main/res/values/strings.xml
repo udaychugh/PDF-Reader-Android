@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">PDF Viewer</string>
+    <string name="device">Open Pdf from Device</string>
+    <string name="internet">Open Pdf from Internet</string>
+    <string name="documentation">Read Documentation</string>
+</resources>
